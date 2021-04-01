@@ -1,1 +1,0 @@
-find . -mmin -2
